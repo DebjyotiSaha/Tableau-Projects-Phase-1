@@ -1,14 +1,30 @@
-# Tableau-Projects
+# Tableau Projects - Phase 1
 
-The following repository consists of Tableau Projects.
+This repository contains projects developed using Tableau, showcasing data visualization skills and insights. It is intended for anyone looking to understand how data can be represented and interpreted visually through Tableau.
 
-Before accessing the files, make sure that you have Tableau Desktop, Tableau Premium installed in your system.
+## Projects
 
-The current repository consist of 1 project.
-1. Foreign Direct Investment
-  To view the dashboard representation of the project, kindly click on link below.
+Currently, the repository includes the following project:
+
+### 1. **Foreign Direct Investment (FDI) Analysis**
+
+- **Project Overview:** This project analyzes the trends, sectors, and patterns in Foreign Direct Investment (FDI) across different regions. The visualizations include sector-wise investments and the relationships between different countries.
   
-  Dashboard 1:- https://public.tableau.com/views/AnalyzingFDI_16280710559410/SectorFDI?:language=en-US&:display_count=n&:origin=viz_share_link
+- **Dashboard 1:** [Analyzing FDI](https://public.tableau.com/views/AnalyzingFDI_16280710559410/SectorFDI?:language=en-US&:display_count=n&:origin=viz_share_link)
   
-  Dashboard 2:- https://public.tableau.com/views/AnalyzingFDISimilaritiesForecast/SimilaritiesForecast?:language=en-US&:display_count=n&:origin=viz_share_link
+- **Dashboard 2:** [FDI Similarities & Forecast](https://public.tableau.com/views/AnalyzingFDISimilaritiesForecast/SimilaritiesForecast?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+## Prerequisites
+
+- **Tableau Desktop** or **Tableau Public** is required to interact with the visualization files locally.
+- If you do not have Tableau installed, you can view the dashboards using the links provided above.
+
+## Getting Started
+
+1. Download and install **Tableau Desktop** or use **Tableau Public**.
+2. Open the Tableau project file (`.twb`) in Tableau.
+3. Explore the data visualizations, insights, and analytics for various countries and sectors in FDI.
+
+## Contributions
+
+Feel free to fork the repository, open issues, and submit pull requests. Contributions are welcome for further Tableau-based projects.
